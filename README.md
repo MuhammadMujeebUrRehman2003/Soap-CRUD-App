@@ -21,9 +21,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
----
 
 # 📈 Contribution Activity
 
